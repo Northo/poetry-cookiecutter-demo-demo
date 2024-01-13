@@ -1,0 +1,25 @@
+{
+  "template": "/home/runner/work/poetry-cookiecutter-demo/poetry-cookiecutter-demo/template",
+  "commit": "4d13a6592d2faf353bf2ce3b868251472589803b",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "My Package",
+      "package_description": "Package scaffolded with https://github.com/Northo/poetry-cookiecutter-demo.",
+      "package_url": "https://github.com/user/my-package",
+      "author_name": "John Smith",
+      "author_email": "john@example.com",
+      "python_version": "3.11",
+      "with_jupyter_lab": "0",
+      "with_typer_cli": "1",
+      "continuous_integration": "GitHub",
+      "docstring_style": "Google",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__package_name_kebab_case": "my-package",
+      "__package_name_snake_case": "my_package",
+      "_template": "/home/runner/work/poetry-cookiecutter-demo/poetry-cookiecutter-demo/template"
+    }
+  },
+  "directory": null
+}
